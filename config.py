@@ -151,7 +151,7 @@ PROJECT_NAME = "AstroLens AI"
 
 VERSION = "1.0.0"
 
-AUTHOR = "Team AstroLens"
+AUTHOR = "Team Pratyagra"
 
 DESCRIPTION = (
     "Hybrid Physics + AI Pipeline for "
