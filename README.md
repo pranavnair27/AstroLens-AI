@@ -334,7 +334,6 @@ The modular architecture also allows future integration of deep learning models 
 AstroLens AI by Team Pratyagra
 - Pranav Rajeev Nair (VIT Vellore)
 - Advait Krishna Chodankar (VIT Vellore)
-- Vinay K. (VIT Vellore)
 
 Developed as an AI-enabled pipeline for automated exoplanet detection using machine learning and astrophysical signal processing.
 
